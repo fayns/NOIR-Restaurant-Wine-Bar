@@ -45,6 +45,4 @@ http://localhost:8000
 
 ## ✦ Portfolio note
 
-This project is designed to demonstrate how a modern restaurant / café website could look and behave for a freelance client.
-
 The restaurant, text and branding are fictional.
